@@ -1,7 +1,6 @@
-// src/is.ts
-function isDef(val) {
-  return typeof val !== "undefined";
-}
+import {
+  isDef
+} from "./chunk-JPMF6VEI.mjs";
 export {
   isDef
 };

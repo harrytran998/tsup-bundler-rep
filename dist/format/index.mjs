@@ -1,9 +1,6 @@
-// src/format/array.ts
-var ArrayUtils = {
-  unique(array) {
-    return [...new Set(array)];
-  }
-};
+import {
+  ArrayUtils
+} from "../chunk-EV6YECRB.mjs";
 export {
   ArrayUtils
 };
